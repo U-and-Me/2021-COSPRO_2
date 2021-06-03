@@ -42,6 +42,15 @@
     <ClCompile Include="01_10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="02_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="01_5.c">
