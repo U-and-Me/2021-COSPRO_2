@@ -149,6 +149,7 @@
     <ClCompile Include="01_8.c" />
     <ClCompile Include="01_9.c" />
     <ClCompile Include="02_1.c" />
+    <ClCompile Include="02_10.c" />
     <ClCompile Include="02_2.c" />
     <ClCompile Include="02_3.c" />
     <ClCompile Include="02_4.c" />
@@ -156,6 +157,7 @@
     <ClCompile Include="02_6.c" />
     <ClCompile Include="02_7.c" />
     <ClCompile Include="02_8.c" />
+    <ClCompile Include="02_9.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="01_5.c" />
