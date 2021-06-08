@@ -81,6 +81,15 @@
     <ClCompile Include="03_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="03_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03_6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="01_5.c">
