@@ -159,11 +159,15 @@
     <ClCompile Include="02_8.c" />
     <ClCompile Include="02_9.c" />
     <ClCompile Include="03_1.c" />
+    <ClCompile Include="03_10.c" />
     <ClCompile Include="03_2.c" />
     <ClCompile Include="03_3.c" />
     <ClCompile Include="03_4.c" />
     <ClCompile Include="03_5.c" />
     <ClCompile Include="03_6.c" />
+    <ClCompile Include="03_7.c" />
+    <ClCompile Include="03_8.c" />
+    <ClCompile Include="03_9.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="01_5.c" />
