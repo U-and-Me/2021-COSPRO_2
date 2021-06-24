@@ -173,6 +173,8 @@
     <ClCompile Include="04_3.c" />
     <ClCompile Include="04_4.c" />
     <ClCompile Include="04_5.c" />
+    <ClCompile Include="04_6.c" />
+    <ClCompile Include="04_7.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="01_5.c" />
