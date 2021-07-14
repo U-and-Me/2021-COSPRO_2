@@ -123,6 +123,9 @@
     <ClCompile Include="04_7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="04_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="01_5.c">
