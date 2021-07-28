@@ -188,6 +188,16 @@
     <ClCompile Include="05_7.c" />
     <ClCompile Include="05_8.c" />
     <ClCompile Include="05_9.c" />
+    <ClCompile Include="06_1.c" />
+    <ClCompile Include="06_10.c" />
+    <ClCompile Include="06_2.c" />
+    <ClCompile Include="06_3.c" />
+    <ClCompile Include="06_4.c" />
+    <ClCompile Include="06_5.c" />
+    <ClCompile Include="06_6.c" />
+    <ClCompile Include="06_7.c" />
+    <ClCompile Include="06_8.c" />
+    <ClCompile Include="06_9.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="01_5.c" />
